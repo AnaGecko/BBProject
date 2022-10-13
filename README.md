@@ -12,7 +12,8 @@ npx playwright test
 #### Run a single test file
 npx playwright test tests/todo-page.spec.ts
 
-### Learn More
+#### You can learn more in the ([Command line](https://playwright.dev/docs/test-cli/.))
 
-#### You can learn more in the [Command line]([https://pages.github.com/](https://playwright.dev/docs/test-cli/.))
+## Learn More
+### About Playwright [Playwrightinstalation](https://playwright.dev/docs/intro)
 
