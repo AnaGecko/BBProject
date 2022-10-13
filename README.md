@@ -5,10 +5,14 @@ There will be a scenrios for Add / Edit / View / Delete Article
 ## Available Scripts
 In the project directory, you can run:
 
-### Run all the tests 
+#### Run all the tests 
 npx playwright test
 
 
-### Run a single test file
+#### Run a single test file
 npx playwright test tests/todo-page.spec.ts
+
+### Learn More
+
+#### You can learn more in the [Command line]([https://pages.github.com/](https://playwright.dev/docs/test-cli/.))
 
