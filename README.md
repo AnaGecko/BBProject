@@ -15,7 +15,7 @@ npx playwright test tests/todo-page.spec.ts
 #### You can learn more in the ([Command line](https://playwright.dev/docs/test-cli/.))
 
 ## Learn More
-### About Playwright [Playwrightinstalation](https://playwright.dev/docs/intro)
+### [Playwrightinstalation](https://playwright.dev/docs/intro)
 
 ## Tools and languages
 ##### Visual Studio
@@ -26,6 +26,9 @@ npx playwright test tests/todo-page.spec.ts
 
 #### [Instal Visual studio code](https://code.visualstudio.com/download) 
 #### [Instal Playwright](https://playwright.dev/docs/intro)
+
+## Below commands
+
 #### Create package.json
      npm init
 #### Install Playwright TestRunner
