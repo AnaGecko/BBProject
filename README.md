@@ -17,7 +17,7 @@ npx playwright test tests/todo-page.spec.ts
 ## Learn More
 ### About Playwright [Playwrightinstalation](https://playwright.dev/docs/intro)
 
-## Tools
+## Tools and languages
 ##### Visual Studio
 ##### Type Script
 ##### Playwright
