@@ -5,7 +5,7 @@ There will be a scenrios for Add / Edit / View / Delete Article
 ## Available Scripts
 In the project directory, you can run:
 
-###Run all the tests 
+### Run all the tests 
 npx playwright test
 
 
